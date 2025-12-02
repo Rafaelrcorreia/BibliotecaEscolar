@@ -40,3 +40,5 @@ O sistema é um gerenciador simples de biblioteca escolar rodando no console, co
 ---
 
 Projeto criado como parte dos meus estudos em Java e para ser o meu primeiro CRUD no portfólio.
+<img width="483" height="567" alt="image" src="https://github.com/user-attachments/assets/dea6768c-2a75-4a8b-8867-6417cb8c712c" />
+
