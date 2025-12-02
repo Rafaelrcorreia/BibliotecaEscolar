@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class metodMenu {
     protected final Scanner scanner = new Scanner(System.in);
-    protected int opcao;
+    protected int opcao = 0;
     protected ArrayList<Aluno> alunos = new ArrayList<>();
     protected ArrayList<Livro> livros = new ArrayList<>();
     protected ArrayList<Livro> emprestimos = new ArrayList<>();

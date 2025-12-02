@@ -1,7 +1,5 @@
 package biblioteca.com.model;
 
-import java.util.Scanner;
-
 public class Menu extends metodMenu {
     public void menu(){
         do {
@@ -17,7 +15,7 @@ public class Menu extends metodMenu {
 
 
             System.out.println("Digite a opcao desejada: ");
-            int opcao = scanner.nextInt();
+            opcao = scanner.nextInt();
             scanner.nextLine();
 
             switch (opcao) {
@@ -46,7 +44,7 @@ public class Menu extends metodMenu {
                     System.out.println("Opcao invalida. Tente novamente.");
             }
         }
-        while (opcao!=7);
+        while (opcao != 7);
 
     }
 
